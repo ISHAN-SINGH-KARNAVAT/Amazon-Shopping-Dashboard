@@ -38,3 +38,12 @@ Thank you for accessing our Amazon Shipping Power BI Dashboard. This tool has be
 We value your feedback! If you have any suggestions for improving the dashboard or encounter any issues, please don't hesitate to reach out to our support team.
 
 Thank you for choosing the Amazon Shipping Power BI Dashboard. We hope you find it valuable in optimizing your shipping operations and driving business success.
+
+![Screenshot (1)](https://github.com/ISHAN-SINGH-KARNAVAT/Amazon-Shopping-Dashboard/assets/111240999/ce28a567-03e2-487f-8ee4-a17e118a7499)
+
+![Screenshot (2)](https://github.com/ISHAN-SINGH-KARNAVAT/Amazon-Shopping-Dashboard/assets/111240999/cf947ea3-5130-4cac-9005-4d77139b0602)
+
+![Screenshot (3)](https://github.com/ISHAN-SINGH-KARNAVAT/Amazon-Shopping-Dashboard/assets/111240999/42023365-513e-4de5-b100-6e20b2924698)
+
+![Screenshot (4)](https://github.com/ISHAN-SINGH-KARNAVAT/Amazon-Shopping-Dashboard/assets/111240999/e5a7b20b-3542-4d59-ad3c-d77ab9c5926e)
+
